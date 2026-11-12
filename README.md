@@ -55,42 +55,7 @@ Procedure for Association Rules:
 
  
 ### Output:
-<img width="924" height="560" alt="image" src="https://github.com/user-attachments/assets/f02f6e67-2a79-4c79-b844-d3b5c75d0069" />
+<img width="921" height="751" alt="image" src="https://github.com/user-attachments/assets/ff89101b-acdd-4211-913b-c45f694e7a92" />
 
- 
- 
-
-<img width="942" height="561" alt="image" src="https://github.com/user-attachments/assets/3d89ab29-5e6e-4505-9523-44284d7f4639" />
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Result:
+### Result:
 Thus, this program has been successfully executed.
